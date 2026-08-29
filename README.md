@@ -1,16 +1,22 @@
 # Learning-Oriented Build-to-Showcase
 
-> **Turn any idea into a real-world project, tailor the build around what you want to learn, and turn the journey into a shareable case study.**
+> **Build something real. Learn by building it. Use AI to accelerate the work—not outsource the learning. Turn the journey into a portfolio-ready case study.**
 
-Learning-Oriented Build-to-Showcase is a project-building workflow that turns a rough idea into a real-world project while making the building process itself a personalized learning journey.
+A learning-oriented workflow for turning a rough idea into a real-world project, while turning the build itself into a personalized learning journey.
 
-Start with **any idea, any learning goal, and your available timeline**. The workflow helps you explore and shape the idea, determine what the project should become, and create a roadmap deliberately tailored to what you want to learn.
+## What It Does
 
-Instead of separating learning from building, the project becomes the learning environment.
+**1. Start with a rough idea. Shape it together.**  
+You don't need a fully formed product. The workflow brainstorms, challenges, scopes, and iterates with you to figure out what's worth building.
 
-As you build, the workflow adapts to what you already understand, what you discover you need to learn, and what can be delegated to AI or coding agents. Important decisions, iterations, challenges, and learning evidence are captured along the way rather than reconstructed afterward.
+**2. Turn your project into your personalized curriculum.**  
+Choose what you want to learn and how much time you have—**2 days, 1 week, or 6 months.** The project and roadmap are shaped around your learning goals and time commitment.
 
-When the project is complete, the workflow synthesizes both your **learning journey and project-building journey** into a polished case study—showing what you built, why you made key decisions, how the project evolved, what you learned, and what you can now demonstrate.
+**3. Learn it once. Delegate it next time.**  
+Important first-time concepts stay with you to learn and practice. Once you understand them, repetitive implementation can move to AI. **Prioritize learning without building slowly.**
+
+**4. Build your portfolio while you build the project.**  
+Decisions, iterations, challenges, and learning progress are captured as you go, then synthesized into a case study when you're done.
 
 ## How It Works
 
@@ -33,16 +39,15 @@ When the project is complete, the workflow synthesizes both your **learning jour
         └────────────┬────────────┘
                      │
                      ▼
-        ┌─────────────────────────┐
-        │   SHAPE THE PROJECT     │
-        │                         │
-        │ Brainstorm directions   │
-        │ and design the project  │
-        │ around what you want    │
-        │ to learn.               │
-        └────────────┬────────────┘
-                     │
-                     ▼
+        ┌─────────────────────────────┐
+        │     SHAPE THE PROJECT       │
+        │                             │
+        │ Brainstorm, challenge,      │
+        │ scope, and shape the        │
+        │ project together.           │
+        └──────────────┬──────────────┘
+                       │
+                       ▼
       ┌───────────────────────────────┐
       │     MVP × LEARNING FIT        │
       │                               │
@@ -100,116 +105,45 @@ When the project is complete, the workflow synthesizes both your **learning jour
                      │
                      ▼
 ┌─────────────────────────────────────────┐
-│              FINAL OUTPUTS              │
+│              YOU FINISH WITH            │
 │                                         │
-│  ① A real-world project                │
-│     that people can actually use        │
+│  ① A real project people can use       │
 │                                         │
-│  ② A learning retrospective            │
-│     What changed from start → finish    │
+│  ② Skills you learned + practiced      │
 │                                         │
-│  ③ A shareable case study               │
-│     Build process + decisions +         │
-│     iterations + learning + evidence    │
+│  ③ A portfolio-ready case study        │
+│     of how you thought, built & grew    │
 └─────────────────────────────────────────┘
 ```
 
-## What Makes This Different
+## Start a Project
 
-Most project workflows optimize for one thing: **finish the project**.
-
-This workflow treats the project as both a **real product** and a **learning environment**.
-
-If a concept is important to what you want to learn, the workflow may deliberately preserve it for you to understand or implement yourself. If you already understand something and the remaining work is mechanical, it can be delegated to an AI or coding agent.
-
-The goal is not to manually build everything. It is to spend your attention where it creates the most learning value.
-
-## What You Get
-
-| Output | Purpose |
-|---|---|
-| **Goal-to-MVP Learning Map** | Connect project features directly to what you want to learn |
-| **Personalized Project Roadmap** | Decide what to build, learn, practice, and delegate |
-| **Learning Gap Map** | Track gaps discovered through actual project work |
-| **Learning Primer** | Explain important concepts in the context of your project when needed |
-| **Continuous Evidence** | Capture decisions, iterations, debugging, learning moments, and demonstrated capabilities |
-| **Real-World Project** | Produce something functional that others can actually use |
-| **Learning Retrospective** | Show how your understanding and capabilities changed |
-| **Shareable Case Study** | Turn the complete build + learning journey into a presentation-ready story |
-
-## How to Use
-
-Add the Skill to the AI agent or project you want to use as your learning/build partner.
-
-Then start with something as simple as:
+Start with something as simple as:
 
 ```text
 Read and follow the Learning-Oriented Build-to-Showcase
 Workflow for this project.
 
-I want to build [idea].
+I have an idea: [rough idea]
 
-I want to use this project to learn [skills / capabilities].
+I want to learn: [skills / capabilities]
 
-I have approximately [timeline].
-
-My goal for this project is [learning / portfolio /
-business validation / career development / other].
+I have: [2 days / 1 week / 3 months / etc.]
 ```
 
-You don't need a fully formed product idea or roadmap before starting.
+**That's enough.** You don't need a finished product idea or roadmap—the workflow helps you figure that out.
 
-**Figuring out what the project should become is part of the workflow.**
+## The Core Principle
 
-## Working With Coding Agents
+> **First time → learn it.  
+> Next time → delegate it.  
+> Important decision → make it together.  
+> AI output → review it.**
 
-The workflow is designed to work alongside coding agents rather than replace them.
+## What You Finish With
 
-```text
-YOU
-│
-├── Learn first-time important concepts
-├── Make meaningful product decisions
-├── Make meaningful architecture decisions
-└── Practice skills connected to your goals
-
-LEARNING WORKFLOW
-│
-├── Guide product exploration
-├── Connect project ↔ learning goals
-├── Identify knowledge gaps
-├── Plan and adapt the roadmap
-├── Teach concepts in context
-└── Capture learning + project evidence
-
-CODING AGENT
-│
-├── Execute bounded implementation tasks
-├── Handle understood mechanical work
-├── Inspect the repository
-├── Run tests
-└── Produce diffs for review
-```
-
-The principle is:
-
-> **Important first-time concept → learn and practice.  
-> Already-understood mechanical work → delegate.  
-> Consequential decision → reason before implementing.  
-> Agent output → review and test.**
-
-## Project State
-
-For longer projects, the workflow treats your repository as the persistent source of truth.
-
-The conversation is for reasoning, teaching, planning, and debugging. Project documentation preserves state across sessions so that the workflow can resume from the actual project rather than relying on old conversation history.
+**A real project. Skills you learned and practiced. A portfolio-ready case study.**
 
 ## Status
 
-**v1.0**
-
-This is the first stable baseline of the workflow. It was developed through iterative behavioral testing and is intended to continue evolving through use on real projects.
-
-## License
-
-MIT License.
+**v1.0** · MIT License
