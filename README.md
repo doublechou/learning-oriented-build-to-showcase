@@ -2,7 +2,7 @@
 
 > **Build something real. Learn by building it. Use AI to accelerate the work—not outsource the learning. Turn the journey into a portfolio-ready case study.**
 
-A learning-oriented workflow for turning a rough idea into a real-world project, while turning the build itself into a personalized learning journey.
+A learning-oriented workflow that turns a rough idea into a real-world project—and the build itself into a personalized learning journey.
 
 ## What It Does
 
@@ -10,12 +10,15 @@ A learning-oriented workflow for turning a rough idea into a real-world project,
 You don't need a fully formed product. The workflow brainstorms, challenges, scopes, and iterates with you to figure out what's worth building.
 
 **2. Turn your project into your personalized curriculum.**  
-Choose what you want to learn and how much time you have—**2 days, 1 week, or 6 months.** The project and roadmap are shaped around your learning goals and time commitment.
+Choose what you want to learn and your time commitment—**2 days, 1 week, or 6 months.** The project is shaped around your learning goals and available time.
 
-**3. Learn it once. Delegate it next time.**  
+**3. Know exactly what to do each day.**  
+Get an actionable daily roadmap for **what to build, learn, practice, and delegate.** Less planning. More building and learning.
+
+**4. Learn it once. Delegate it next time.**  
 Important first-time concepts stay with you to learn and practice. Once you understand them, repetitive implementation can move to AI. **Prioritize learning without building slowly.**
 
-**4. Build your portfolio while you build the project.**  
+**5. Build your portfolio while you build the project.**  
 Decisions, iterations, challenges, and learning progress are captured as you go, then synthesized into a case study when you're done.
 
 ## How It Works
@@ -30,17 +33,8 @@ Decisions, iterations, challenges, and learning progress are captured as you go,
 └────────────────────┬────────────────────┘
                      │
                      ▼
-        ┌─────────────────────────┐
-        │   EXPLORE & DEFINE      │
-        │                         │
-        │ • Project goals         │
-        │ • Product opportunity   │
-        │ • Learning goals        │
-        └────────────┬────────────┘
-                     │
-                     ▼
         ┌─────────────────────────────┐
-        │     SHAPE THE PROJECT       │
+        │      EXPLORE & SHAPE        │
         │                             │
         │ Brainstorm, challenge,      │
         │ scope, and shape the        │
@@ -51,57 +45,43 @@ Decisions, iterations, challenges, and learning progress are captured as you go,
       ┌───────────────────────────────┐
       │     MVP × LEARNING FIT        │
       │                               │
-      │ Project features are mapped   │
-      │ to deliberate opportunities   │
+      │ Map project features to       │
+      │ deliberate opportunities      │
       │ to learn and practice.        │
       └──────────────┬────────────────┘
                      │
-                     │  ARTIFACT
-                     ├────► Goal-to-MVP Learning Map
-                     │
                      ▼
       ┌───────────────────────────────┐
-      │   PERSONALIZED ROADMAP        │
+      │    PERSONALIZED ROADMAP       │
       │                               │
-      │ • What to build               │
-      │ • What to learn               │
-      │ • What to practice yourself   │
-      │ • What to delegate            │
-      │ • What evidence to capture    │
+      │ Break the journey into        │
+      │ actionable daily plans:       │
+      │                               │
+      │ • Build                       │
+      │ • Learn                       │
+      │ • Practice yourself           │
+      │ • Delegate                    │
+      │ • Capture evidence            │
       └──────────────┬────────────────┘
-                     │
-                     │  ARTIFACTS
-                     ├────► Project Roadmap
-                     ├────► Learning Gap Map
-                     └────► Learning Primer (when useful)
                      │
                      ▼
       ┌───────────────────────────────┐
       │        BUILD & LEARN          │◄─────────────┐
       │                               │              │
-      │ Build real features           │              │
+      │ Follow today's plan           │              │
       │ Learn concepts in context     │              │
       │ Practice important skills     │              │
-      │ Delegate mechanical work      │              │
-      │ Review agent output           │              │
+      │ Delegate understood work      │              │
       └──────────────┬────────────────┘              │
                      │                               │
                      ▼                               │
       ┌───────────────────────────────┐              │
       │      ADAPT AS YOU LEARN       │              │
       │                               │              │
-      │ New questions, mistakes,      │              │
-      │ discoveries and demonstrated  │──────────────┘
-      │ understanding update the      │
-      │ learning path + roadmap.      │
+      │ Questions, mistakes and new   │              │
+      │ understanding continuously    │──────────────┘
+      │ update what comes next.       │
       └──────────────┬────────────────┘
-                     │
-                     │  CONTINUOUS EVIDENCE
-                     ├────► Decisions & tradeoffs
-                     ├────► Iterations
-                     ├────► Learning moments
-                     ├────► Debugging / discoveries
-                     └────► Demonstrated capabilities
                      │
                      ▼
 ┌─────────────────────────────────────────┐
@@ -117,8 +97,6 @@ Decisions, iterations, challenges, and learning progress are captured as you go,
 ```
 
 ## Start a Project
-
-Start with something as simple as:
 
 ```text
 Read and follow the Learning-Oriented Build-to-Showcase
@@ -143,6 +121,10 @@ I have: [2 days / 1 week / 3 months / etc.]
 ## What You Finish With
 
 **A real project. Skills you learned and practiced. A portfolio-ready case study.**
+
+## Feedback & Contributing
+
+This workflow will continue evolving through real-world use. If you try it and find something confusing, missing, or worth improving, please open a GitHub issue. Feedback, experiments, and suggestions are welcome.
 
 ## Status
 
