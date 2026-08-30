@@ -29,8 +29,7 @@ Important first-time concepts stay with you to learn and practice. Once you unde
 Decisions, iterations, challenges, and learning progress are captured as you go, then synthesized into a case study when you're done.
 
 <br>
-
----
+<br>
 
 ## How It Works
 
@@ -108,8 +107,7 @@ Decisions, iterations, challenges, and learning progress are captured as you go,
 ```
 
 <br>
-
----
+<br>
 
 ## Install
 
@@ -119,6 +117,7 @@ npx skills add doublechou/learning-oriented-build-to-showcase
 
 Install with the open [skills.sh](https://www.skills.sh/) CLI. Choose the AI agent(s) you want to use it with; installation is project-level by default, or add `-g` to make it available globally.
 
+<br>
 <br>
 
 ## Start a Project
@@ -137,8 +136,7 @@ I have: [2 days / 1 week / 3 months / etc.]
 > **That's enough.** You don't need a finished product idea or roadmap—the workflow helps you figure that out.
 
 <br>
-
----
+<br>
 
 ## The Core Principle
 
@@ -148,6 +146,7 @@ I have: [2 days / 1 week / 3 months / etc.]
 > **AI output → review it.**
 
 <br>
+<br>
 
 ## What You Finish With
 
@@ -156,8 +155,7 @@ I have: [2 days / 1 week / 3 months / etc.]
 **③ A portfolio-ready case study**
 
 <br>
-
----
+<br>
 
 ## Feedback & Contributing
 
@@ -166,7 +164,6 @@ This workflow will continue evolving through real-world use. If you try it and f
 Feedback, experiments, and suggestions are welcome.
 
 <br>
-
----
+<br>
 
 **v1.0** · MIT License
