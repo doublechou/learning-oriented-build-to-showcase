@@ -96,6 +96,16 @@ Decisions, iterations, challenges, and learning progress are captured as you go,
 └─────────────────────────────────────────┘
 ```
 
+## Install
+
+Install with the open [skills.sh](https://www.skills.sh/) CLI:
+
+```bash
+npx skills add doublechou/learning-oriented-build-to-showcase
+```
+
+The CLI will let you choose which supported AI agent(s) to install the Skill for. By default, it installs at the project level; use `-g` if you want it available globally across projects.
+
 ## Start a Project
 
 ```text
